@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.4dd032b2.css",
+    "main.js": "/me/static/js/main.fc539669.js",
+    "static/media/anmol_shah.png": "/me/static/media/anmol_shah.010827f79dc761819e63.png",
+    "index.html": "/me/index.html",
+    "main.4dd032b2.css.map": "/me/static/css/main.4dd032b2.css.map",
+    "main.fc539669.js.map": "/me/static/js/main.fc539669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dd032b2.css",
+    "static/js/main.fc539669.js"
+  ]
+}
