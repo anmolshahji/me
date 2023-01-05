@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Inter:wght@200&display=swap');
+
+.skill {
+    text-align: center;
+    margin: 3%;
+    font-size: 250%;
+    cursor: grab;
+    background-color: transparent;
+    color: black;
+}
+
+@media (max-width: 773px) {
+    .label {
+        font-size: 70%;
+    }
+}
+
+
+@media (min-width: 774px) {
+    .label {
+        font-size: 100%;
+    }
+}
+
+.label {
+    text-align: center;
+    color: black;
+
+    font-weight: bold;
+    font-family: 'Comfortaa',
+        cursive;
+}
+
+.wrapper {
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgb(142, 134, 134);
+    /* border: 1px solid black; */
+    margin: 3%;
+    padding: 10px;
+    background-color: white;
+}

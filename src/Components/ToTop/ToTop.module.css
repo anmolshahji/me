@@ -1,0 +1,19 @@
+.up {
+    background-color: rgb(102, 102, 212);
+    color: wheat;
+    display: inline-block;
+    padding: 5px;
+    font-size: larger;
+    border-radius: 2px;
+    font-weight: 600;
+
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+
+    z-index: 1000;
+}
+
+.up a {
+    color: wheat;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+
+@media (min-width : 600px) {
+    .label {
+        padding-top: 10%;
+    }
+}
+
+
+@media (max-width : 600px) {
+    .label {
+        padding-top: 4%;
+    }
+}
+
+
+.label {
+    /* padding-top: 4%; */
+    padding-bottom: 2%;
+    text-align: center;
+    font-size: larger;
+
+    font-family: 'Inter', sans-serif;
+    font-size: 200%;
+    font-weight: bold;
+    color: blueviolet;
+}

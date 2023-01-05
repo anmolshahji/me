@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.13c9570a.css",
+    "main.js": "/me/static/js/main.0327c57f.js",
+    "static/media/anmol_shah.png": "/me/static/media/anmol_shah.010827f79dc761819e63.png",
+    "static/media/3.jpg": "/me/static/media/3.449c98176e55bad64269.jpg",
+    "static/media/9.jpg": "/me/static/media/9.0dbbeb6ef92dbc6c4666.jpg",
+    "static/media/2.jpg": "/me/static/media/2.02a525fde2268c6e7a6e.jpg",
+    "static/media/1.jpg": "/me/static/media/1.0a66838e459bf6558301.jpg",
+    "static/media/7.jpg": "/me/static/media/7.a9fa73d6d7bd564c1eb7.jpg",
+    "static/media/resume.pdf": "/me/static/media/resume.4d10eab7810ffb35762a.pdf",
+    "static/media/12.jpg": "/me/static/media/12.44981247b52467b43096.jpg",
+    "static/media/8.jpg": "/me/static/media/8.0219022d46db20915fd0.jpg",
+    "static/media/10.jpg": "/me/static/media/10.955f2e1ba337de5c1530.jpg",
+    "static/media/11.jpg": "/me/static/media/11.31549616e01574296185.jpg",
+    "static/media/5.jpg": "/me/static/media/5.0cd40e66ec20a352a6f7.jpg",
+    "static/media/6.jpg": "/me/static/media/6.2034dda4a9f03e0e52a5.jpg",
+    "static/media/4.jpg": "/me/static/media/4.de8d26f48ff55912a84f.jpg",
+    "index.html": "/me/index.html",
+    "main.13c9570a.css.map": "/me/static/css/main.13c9570a.css.map",
+    "main.0327c57f.js.map": "/me/static/js/main.0327c57f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c9570a.css",
+    "static/js/main.0327c57f.js"
+  ]
+}

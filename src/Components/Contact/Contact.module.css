@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+
+.form>div>label {
+    display: block;
+    padding: 2% 0px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 900;
+}
+
+.email {
+    width: 300px;
+    height: 50px;
+}
+
+.name {
+    width: 300px;
+    height: 50px;
+
+}
+
+.message {
+    width: 300px;
+
+}

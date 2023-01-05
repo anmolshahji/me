@@ -1,0 +1,14 @@
+.certificate {
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgb(142, 134, 134);
+    background-color: white;
+    margin: 40px;
+    text-align: center;
+}
+
+.certificate>img {
+    width: 100%;
+    height: 80%;
+    margin-bottom: 5px;
+}
