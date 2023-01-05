@@ -33,7 +33,7 @@ const timelineData = [
     },
     {
         text:
-            'Passed 12th grade in Science(PCMB) with 77.69',
+            'Passed 12th grade in Science(PCMB) with 77.69%',
         date: 'March 2018',
         category: {
             tag: 'HSC',
